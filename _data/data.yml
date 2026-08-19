@@ -342,10 +342,9 @@ people:
           name: "Nick Renner"
           anchor: nick_renner
           internal: true
-          role: "Ph.D. Candidate (co-advised by Brendan Dolan-Gavitt)"
+          role: "Ph.D. 2026 (co-advised by Brendan Dolan-Gavitt)"
           since: 2019
           photo: "/img/people/nick_renner.png"
-          site: "http://nickrenner.com"
           interests: "Systems security, operating systems, Internet of Things"
 
       - &aditya_sirish
@@ -604,7 +603,6 @@ people:
       - type: "PhD. Students"
         anchor: phd
         people:         
-          - *nick_renner
           - *yaxuan_wen
           - *patrick_zielinski
           - *ann_malavet
@@ -623,6 +621,7 @@ people:
       - type: Alumni
         anchor: alumni
         people:
+          - *nick_renner
           - *yuchen_zhang
           - *renata_vaderna
           - *aditya_sirish
