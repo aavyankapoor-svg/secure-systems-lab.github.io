@@ -581,6 +581,16 @@ people:
           photo: "/img/people/shounak_ghosh.jpg"
           site: "https://shounak-ghosh.github.io/"
           interests: "Systems security, Distributed systems, AI application security"
+
+      - &sahil_zunjarrao
+          name: "Sahil Zunjarrao"
+          anchor: sahil_zunjarrao
+          internal: true
+          role: "Master's Student"
+          since: 2026
+          photo: "/img/people/sahil_zunjarrao.png"
+          site: "https://sahilzunjarrao.netlify.app/"
+          interests: "Software supply chain security, systems security, application security"
           
   ################################################
       
@@ -617,6 +627,7 @@ people:
           - *pratham_hegde
           - *shounak_ghosh
           - *mayank_gite
+          - *sahil_zunjarrao
 
       - type: Alumni
         anchor: alumni
@@ -876,6 +887,7 @@ projects:
               link: "https://github.com/wlynch"
             - *neil_naveen
             - *pratham_hegde
+            - *sahil_zunjarrao
             - name: "Reza Curtmola (NJIT)"
               link: "https://cs.njit.edu/people/curtmola/"
             - *justin_cappos
