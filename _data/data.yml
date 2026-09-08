@@ -458,6 +458,15 @@ people:
             since: 2024
             photo: "/img/people/neil_naveen.jpg"
             interests: "Security and algorithms"
+            
+      - &aavyan_kapoor
+            name: "Aavyan Kapoor"
+            anchor: aavyan_kapoor
+            internal: true 
+            role: "High School Student"
+            since: 2026
+            photo: "/img/people/aavyan_kapoor.jpg"
+            interests: "AI Usage and System Security"
 
       - &ziyi_xu
             name: "Ziyi Xu"
@@ -628,6 +637,7 @@ people:
           - *shounak_ghosh
           - *mayank_gite
           - *sahil_zunjarrao
+          - *aavyan_kapoor
 
       - type: Alumni
         anchor: alumni
@@ -886,6 +896,7 @@ projects:
             - name: "Billy Lynch (Chainguard)"
               link: "https://github.com/wlynch"
             - *neil_naveen
+            - *aavyan_kapoor
             - *pratham_hegde
             - *sahil_zunjarrao
             - name: "Reza Curtmola (NJIT)"
